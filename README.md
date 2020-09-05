@@ -86,3 +86,7 @@ Original Timer icon by [lucy-g](https://icon-icons.com/icon/timer/121243), color
 Sick icon by [SVG Repo](https://www.svgrepo.com/svg/271898/sick).
 
 View Switch icon made by [Pixel perfect](https://www.flaticon.com/authors/pixel-perfect) from [www.flaticon.com](https://www.flaticon.com).
+
+---
+
+[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/time-to-leave)
